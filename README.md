@@ -1,8 +1,9 @@
 # Hi 👋 I'm Ahmed Mustafa
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/169d3b1bebf5631f304e1131dfa8618963f4fa21a598dcfcfa5dfae64d7b5d93/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61686d656468656c6d2d79266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedMustafa-y&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 🚀 Frontend Developer | React.js  
 💻 Building modern, responsive, and user-focused web interfaces
